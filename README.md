@@ -132,6 +132,7 @@ It takes user-defined variables (Product Name, Platform, Tone) and injects them 
 
 ## Author
 
+**Muhammad Shariq Naseer**
 DecodeLabs Generative AI Industrial Training – Batch 2026  
 Project 2: Automated Copywriting & Tone Transformer
 
